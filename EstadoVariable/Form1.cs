@@ -12,9 +12,21 @@ namespace EstadoVariable
 {
     public partial class Form1 : Form
     {
+        public int numero;
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            txtNumero.Text = "1";
+        }
+
+        private void btnIncrementar_Click(object sender, EventArgs e)
+        {
+            numero++;
+            txtNumero.Text = numero.ToString();  
         }
     }
 }

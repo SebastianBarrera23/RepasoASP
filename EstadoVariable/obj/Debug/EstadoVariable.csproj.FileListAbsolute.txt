@@ -1,0 +1,10 @@
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\bin\Debug\EstadoVariable.exe.config
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\bin\Debug\EstadoVariable.exe
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\bin\Debug\EstadoVariable.pdb
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\obj\Debug\EstadoVariable.csprojResolveAssemblyReference.cache
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\obj\Debug\EstadoVariable.Form1.resources
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\obj\Debug\EstadoVariable.Properties.Resources.resources
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\obj\Debug\EstadoVariable.csproj.GenerateResource.Cache
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\obj\Debug\EstadoVariable.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\obj\Debug\EstadoVariable.exe
+C:\Users\sebastian\source\repos\RepasoASP\EstadoVariable\obj\Debug\EstadoVariable.pdb
